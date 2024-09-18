@@ -4,7 +4,7 @@
   <name>kbot_ros</name>
   <version>0.1.0</version>
   <description>TODO: Package description</description>
-  <maintainer email="luisherreramedina950@gmail.com">luis Herrera Medina</maintainer>
+  <maintainer email="luisherreramedina950@gmail.com">Luis Herrera Medina</maintainer>
   <license>TODO: License declaration</license>
 
   <buildtool_depend>ament_cmake</buildtool_depend>
